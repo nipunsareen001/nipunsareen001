@@ -4,6 +4,7 @@ I'm a passionate Engineer with a deep love for technology and innovation. I spec
 
 ### 🔧 Technologies & Skills:
 - Blockchain (Ethereum, BSC, Polygon, Tron)
+- GoLang, GRPC, Sockets, Microservices
 - Smart Contracts (Solidity, Web3.py, web3.js)
 - Programming Languages (Go, Python, Javascript, Solidity, Java)
 - Distributed Systems, Networking, Consensus
