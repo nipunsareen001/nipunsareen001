@@ -4,7 +4,7 @@
 I like building **reliable backend systems**, **distributed architectures**, and **blockchain infrastructure**.
 
 I’ve spent the last **5+ years** taking products from **idea → production** across **OTT, fintech, and public blockchains**.  
-Mostly working with **Go**, cloud-native systems, and things that need to scale without breaking 🔧
+Working with **Go lang**, cloud-native systems, and things that need to scale without breaking 🔧
 
 ---
 
