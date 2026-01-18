@@ -1,23 +1,27 @@
-# Hi, I'm Nipun Sareen 👋
+## 👋 Hey, I’m Nipun
 
-I'm a passionate Engineer with a deep love for technology and innovation. I specialize in building products from the ground up and have taken the lead in product planning and execution in entrepreneurial ventures. I'm known for my technical enthusiasm and proficiency in multiple programming languages.
+**Engineer** based in **Delhi, India** 🇮🇳  
+I like building **reliable backend systems**, **distributed architectures**, and **blockchain infrastructure**.
 
-### 🔧 Technologies & Skills:
-- Blockchain (Ethereum, BSC, Polygon, Tron)
-- GoLang, GRPC, Sockets, Microservices
-- Smart Contracts (Solidity, Web3.py, web3.js)
-- Programming Languages (Go, Python, Javascript, Solidity, Java)
-- Distributed Systems, Networking, Consensus
-- Database Management (LevelDB, PostgreSQL, MySQL, SQL Server)
-- AI Tools Utilization
-- Leadership and Effective Communication
+I’ve spent the last **5+ years** taking products from **idea → production** across **OTT, fintech, and public blockchains**.  
+Mostly working with **Go**, cloud-native systems, and things that need to scale without breaking 🔧
 
-### 🚀 Projects:
-- GoGoChain: Architect and developer of GoGoChain, a blockchain platform built from the ground up using Go.
-- CryptoConnect: A Python-based toolkit to seamlessly connect web applications with major blockchains like Ethereum, BSC, Tron, and Polygon.
+---
 
-### 🌐 Connect with Me:
-- LinkedIn: www.linkedin.com/in/nipunsareen001
-- Email: nipuns76@gmail.com
+### 🛠️ What I work with
+- **Languages:** Go, Python, Node.js, Solidity  
+- **Backend:** Microservices, gRPC, REST, GraphQL, async systems  
+- **Infra:** Docker, Kubernetes, AWS, GCP, CI/CD  
+- **Blockchain:** EVM, Layer-1 protocols, Smart Contracts, Geth  
 
-Feel free to explore my repositories and reach out for collaboration or discussions. Let's build the future of technology together!
+---
+
+### 🎯 What I care about
+- Clean architecture  
+- Systems that don’t fall apart at scale  
+- Ownership, impact, and shipping real things  
+
+---
+
+📫 **Reach me:** `nipunsareen001@gmail.com`  
+🔗 **LinkedIn / GitHub:** You’re already here 🙂
