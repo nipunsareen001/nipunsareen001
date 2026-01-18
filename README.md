@@ -24,4 +24,5 @@ Mostly working with **Go**, cloud-native systems, and things that need to scale 
 ---
 
 📫 **Reach me:** `nipunsareen001@gmail.com`  
-🔗 **LinkedIn / GitHub:** You’re already here 🙂
+🔗 **LinkedIn:** www.linkedin.com/in/nipunsareen001
+🔗 **GitHub:** You’re already here 🙂
